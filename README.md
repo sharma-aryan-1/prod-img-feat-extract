@@ -71,4 +71,5 @@ prod-img-feat-extract/
 ## Limitations
 
 1. While this study provides a good solution for extracting the dimensions and minute specifications from each product page, it fails to extract non-generalized, specific descriptions of the products, which is a challenging task and is not explored in our study. This can be a problem when a downstream task requires additional information, and the model must be retuned. This may involve exploring alternative approaches or fine-tuning specific steps of our pipelines.
-2. While our models support multiple languages, we only employ them on English-based or numeric-only product images. Additionally, evaluation has only been carried out for English. The performance may vary when applying the model to images encompassing multiple languages or any uncommon, domain-specific abbreviations or terminologies.
+   
+3. While our models support multiple languages, we only employ them on English-based or numeric-only product images. Additionally, evaluation has only been carried out for English. The performance may vary when applying the model to images encompassing multiple languages or any uncommon, domain-specific abbreviations or terminologies.

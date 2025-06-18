@@ -10,7 +10,7 @@ Extract product features such as weight, height, and other details from product 
  - [Features](#Features)
  - [Pipelines](#Pipelines)
  - [Installation](#Installation)
- - [Project Structure](#ProjectStructure)
+ - [Project Structure](#project-structure)
 
 ## Overview
 

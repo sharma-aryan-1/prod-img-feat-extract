@@ -42,7 +42,7 @@ This project automates the extraction of structured product specifications from 
 
 1. Clone the repository:
 
-```bash
+```#!/bin/bash
 git clone https://github.com/sharma-aryan-1/prod-img-feat-extract.git
 cd prod-img-feat-extract
 ```
